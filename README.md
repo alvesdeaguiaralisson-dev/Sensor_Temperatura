@@ -5,7 +5,7 @@ Projeto desenvolvido para monitorar a temperatura e representar visualmente sua 
 
 ## ⚙️ Tecnologias utilizadas
 - Arduino
-- Sensor de temperatura (ex: TMP36 ou LM35)
+- Sensor de temperatura (TMP36)
 - LEDs
 - Resistores
 
